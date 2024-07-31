@@ -1,5 +1,5 @@
 # ✨ About Me:
-🔭 **I’m currently working on:**  <br>Improving cloud-based solutions and learning system design for more optimization.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>Advanced Data Structures & Algorithms and MERN Stack.<br><br>💬 **Ask me about:**  <br> Data Structures & Algorithims, JavaScript, React, Node.js, AWS, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I'm a fitness enthusiast and love working out.
+🔭 **I’m currently working on:**  <br>Improving cloud-based solutions and learning system design for more optimization.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>Advanced Data Structures Algorithms and MERN Stack.<br><br>💬 **Ask me about:**  <br> Data Structures & Algorithims, JavaScript, React, Node.js, AWS, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I'm a fitness enthusiast and love working out.
 
 
 ## 🌐 Socials:
